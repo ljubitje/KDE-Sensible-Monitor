@@ -13,6 +13,7 @@ highPrioritySensorIds=["cpu/all/system","cpu/all/user"]
 [Face-94066567341616][org.kde.ksysguard.linechart][General]
 historyAmount=300
 lineChartStacked=true
+rangeAutoY=false
 
 [Face-94066583170736][Appearance]
 chartFace=org.kde.ksysguard.linechart
