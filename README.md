@@ -1,7 +1,7 @@
 # KDE Sensible Monitor
-this is my custom Page for KDE's System Monitor (ex ksysguard).
+This is my custom Page for KDE's System Monitor (ex ksysguard).
 
-includes system info, CPU, GPU, network, and temperatures.
+Includes system info, CPU, GPU, network, and temperatures.
 
 Some fields will remain blank. This is normal.  
 They depend on your specific hardware.  
